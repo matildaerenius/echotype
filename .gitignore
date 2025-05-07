@@ -33,33 +33,33 @@ build/
 .vscode/
 
 # VSCode
-/frontend/.vs/
-/frontend/*.wsuo
-/frontend/.vscode/
-/frontend/.gitignore
+/frontend/echotype/.vs/
+/frontend/echotype/*.wsuo
+/frontend/echotype/.vscode/
+/frontend/echotype/.gitignore
 
 
 # dependencies
-/frontend/node_modules
-/frontend/.pnp
-/frontend.pnp.js
+/frontend/echotype/node_modules
+/frontend/echotype/.pnp
+/frontend/echotype/.pnp.js
 
 # testing
-/frontend/coverage
+/frontend/echotype/coverage
 
 # production
-/frontend/build
+/frontend/echotype/build
 
 # misc
-/frontend/.DS_Store
-/frontend/.env.local
-/frontend/.env.development.local
-/frontend/.env.test.local
-/frontend/.env.production.local
+/frontend/echotype/.DS_Store
+/frontend/echotype/.env.local
+/frontend/echotype/.env.development.local
+/frontend/echotype/.env.test.local
+/frontend/echotype/.env.production.local
 
-/frontend/npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
+/frontend/echotype/npm-debug.log*
+/frontend/echotype//yarn-debug.log*
+/frontend/echotype/yarn-error.log*
 
 # IntelliJ
 /backend/echotype/.idea/
