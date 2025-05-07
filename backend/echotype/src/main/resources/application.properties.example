@@ -1,0 +1,2 @@
+spring.application.name=echotype
+spring.ai.openai.api-key=yoursecretkey
