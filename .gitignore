@@ -63,6 +63,6 @@ build/
 
 # IntelliJ
 /backend/echotype/.idea/
-/backend/echostype/.gitignore
+/backend/echotype/.gitignore
 backend/echotype/src/main/resources/application.properties
 /*.iml
