@@ -31,7 +31,7 @@ const AudioUploader = () => {
 
   return (
     <div className="container">
-      <h1>Audio to Text Transcriber</h1>
+      <h1>EchoType</h1>
       <div className="file-input">
         <input type="file" accept="audio/*" onChange={handleFileChange} />
       </div>
@@ -39,7 +39,10 @@ const AudioUploader = () => {
         Upload and Transcribe
       </button>
       <div className="transcription-result">
-        <h2>Transcription Result</h2>
+        <div className="transcription-title">
+          <span>📝</span> <span>Transcription Result</span>
+        </div>
+
         <p>{transcription}</p>
       </div>
     </div>
